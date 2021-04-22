@@ -1,0 +1,20 @@
+将星系分为早型星系和晚型星系的标准
+
+1. concentration index: C=2.86
+ --将星系在S0/Sa处分开为 early type (c>2.86) & late type (c<2.86), 各自完备性达到80%以上
+ [1] Nakamura O., Fukugita M., Yasuda N., Loveday J., Brinkmann J., Schneider D.P., Shimasaku K., SubbaRao M., 2003, AJ, 125, 1682
+
+2. Sersic n: n=2.5
+ --是指数盘(n=1)和 de Vancouleurs轮廓(n=4)的平均值, early type (n<2.5) & late type (n>2.5)
+
+3. 颜色分类: u*-r*=2.22
+ --分为 early(E/S0/Sa) and late(Sb/Sc/Sd)
+ [2]Strateva I. et al., 2002, AJ, 122, 1861
+
+4. 颜色分类: z=0.1, g-r~0.7
+ [3]astro-ph/0210215
+
+5. SDSS提供fracDev参数: fDev=0.5
+ --描述了de Vaucouleurs轮廓在该星系亮度分布中的占比
+ --elliptical, fDev=1; spiral, fDev=0.
+ [4]Masters K.L., Nichol R., Bamford S., et al. MNRAS, 2010,404;792
